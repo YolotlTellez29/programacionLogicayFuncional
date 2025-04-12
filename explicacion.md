@@ -1,0 +1,5 @@
+Este código crea una pequeña aplicación gráfica que funciona como una calculadora básica para sumar o multiplicar dos números. Utiliza el módulo **`tkinter`**, que es una biblioteca estándar de Python para construir interfaces gráficas de usuario (GUI).
+
+La aplicación tiene una ventana principal con dos campos de entrada donde el usuario puede escribir los números, y dos botones que permiten realizar las operaciones de suma o multiplicación. Cuando se presiona un botón, se ejecuta una función que toma los valores ingresados, realiza la operación correspondiente y muestra el resultado en un cuadro de diálogo emergente. Si el usuario ingresa algo que no es un número, se muestra un mensaje de error.
+
+En resumen, el programa combina elementos básicos de GUI como etiquetas, campos de entrada, botones y cuadros de diálogo para crear una herramienta interactiva sencilla.
